@@ -65,5 +65,5 @@ http://localhost:8501
 Crie um arquivo `.env` com as variáveis necessárias:
 ```
 API_KEY=your_api_key
-DATABASE_URL=your_database_url
+GROQ_API_KEY=your_groq_api_key
 ```
